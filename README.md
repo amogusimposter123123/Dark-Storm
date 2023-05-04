@@ -1,1 +1,1 @@
-# Dark-Storm
+# A Script for certain games.
