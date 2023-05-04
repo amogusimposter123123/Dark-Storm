@@ -1,4 +1,4 @@
 return {
-    ["War Tycoon"] = false,
+    ["War Tycoon"] = true,
     ["Tower Battles"] = false
 }
