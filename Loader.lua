@@ -5,7 +5,7 @@ if not game:IsLoaded() then
 end
 local GameList = {
 	["https://raw.githubusercontent.com/amogusimposter123123/Dark-Storm/scripts/War-Tycoon.lua"] = {4639625707},
-	["https://raw.githubusercontent.com/amogusimposter123123/Dark-Storm/scripts/Tower-Battles.lua"] = {49707852, 45146873, 46955756}
+	["https://raw.githubusercontent.com/amogusimposter123123/Dark-Storm/scripts/Tower-Battles.lua"] = {49707852, 45146873, 46955756, 8652280014}
 }
 
 for link, idstable in pairs(GameList) do
